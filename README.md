@@ -43,7 +43,7 @@ A fully interactive web-based chess game implemented using **JavaScript**, **jQu
 ## 🚀 How to Run the Project
 
 1. **Download or Clone the Repository**:
-git clone https://github.com/yourusername/web-chess-game.git
+
 
 Open the Game in Your Browser:
 
